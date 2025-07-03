@@ -29,9 +29,9 @@ github_username:  alnguyen01
 
 # Build settings
 #theme: jekyll-theme-hydejack
-remote_theme: jekyll-theme-hydejack
+remote_theme: hydecorp/jekyll-theme-hydejack
 plugins:
-  #- jekyll-feed
+  - jekyll-feed
   - jekyll-remote-theme
 
 # Exclude from processing.
