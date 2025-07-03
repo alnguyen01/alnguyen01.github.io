@@ -28,7 +28,7 @@ twitter_username: Alex_Lan_Nguyen
 github_username:  alnguyen01
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-hydejack
 plugins:
   - jekyll-feed
 
