@@ -29,7 +29,7 @@ github_username:  alnguyen01
 
 # Build settings
 #theme: jekyll-theme-hydejack
-remote_theme: hydecorp/jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
