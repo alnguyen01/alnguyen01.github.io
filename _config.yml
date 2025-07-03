@@ -31,7 +31,7 @@ github_username:  alnguyen01
 #theme: jekyll-theme-hydejack
 remote_theme: jekyll-theme-hydejack
 plugins:
-  - jekyll-feed
+  #- jekyll-feed
   - jekyll-remote-theme
 
 # Exclude from processing.
