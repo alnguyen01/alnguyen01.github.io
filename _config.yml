@@ -28,11 +28,11 @@ twitter_username: Alex_Lan_Nguyen
 github_username:  alnguyen01
 
 # Build settings
-#theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack
+theme: jekyll-theme-hydejack
+#remote_theme: hydecorp/hydejack
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+#  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
